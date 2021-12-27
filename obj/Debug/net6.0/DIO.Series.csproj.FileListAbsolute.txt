@@ -1,0 +1,15 @@
+C:\Users\marcio.wendell\dev\dio\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.AssemblyReference.cache
+C:\Users\marcio.wendell\dev\dio\DIO.Series\obj\Debug\net6.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcio.wendell\dev\dio\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\marcio.wendell\dev\dio\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfo.cs
+C:\Users\marcio.wendell\dev\dio\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\marcio.wendell\dev\dio\DIO.Series\bin\Debug\net6.0\DIO.Series.exe
+C:\Users\marcio.wendell\dev\dio\DIO.Series\bin\Debug\net6.0\DIO.Series.deps.json
+C:\Users\marcio.wendell\dev\dio\DIO.Series\bin\Debug\net6.0\DIO.Series.runtimeconfig.json
+C:\Users\marcio.wendell\dev\dio\DIO.Series\bin\Debug\net6.0\DIO.Series.dll
+C:\Users\marcio.wendell\dev\dio\DIO.Series\bin\Debug\net6.0\ref\DIO.Series.dll
+C:\Users\marcio.wendell\dev\dio\DIO.Series\bin\Debug\net6.0\DIO.Series.pdb
+C:\Users\marcio.wendell\dev\dio\DIO.Series\obj\Debug\net6.0\DIO.Series.dll
+C:\Users\marcio.wendell\dev\dio\DIO.Series\obj\Debug\net6.0\ref\DIO.Series.dll
+C:\Users\marcio.wendell\dev\dio\DIO.Series\obj\Debug\net6.0\DIO.Series.pdb
+C:\Users\marcio.wendell\dev\dio\DIO.Series\obj\Debug\net6.0\DIO.Series.genruntimeconfig.cache
